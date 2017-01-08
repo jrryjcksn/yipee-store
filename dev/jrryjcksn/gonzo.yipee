@@ -1,0 +1,23 @@
+{
+  "services": {
+    "wordpress": {
+      "image": "wordpress:php7.1-fpm-alpine",
+      "annotations": {
+        "override": "none",
+        "description": "The WordPress rich content management system can utilize plugins, widgets, and themes."
+      },
+      "volumes": [],
+      "networks": {
+        "default": {
+          "aliases": []
+        }
+      }
+    }
+  },
+  "networks": {},
+  "volumes": {},
+  "app-info": {
+    "name": "gonzo",
+    "description": ""
+  }
+}
