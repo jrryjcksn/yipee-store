@@ -1,0 +1,9 @@
+{
+  "services": {},
+  "networks": {},
+  "volumes": {},
+  "app-info": {
+    "name": "ccc",
+    "description": ""
+  }
+}
