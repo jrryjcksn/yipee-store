@@ -1,0 +1,23 @@
+{
+  "services": {
+    "racket": {
+      "image": "slogsdon/racket:latest",
+      "annotations": {
+        "override": "none",
+        "description": "slogsdon/racket is a docker base image that bundles the latest version of Racket."
+      },
+      "volumes": [],
+      "networks": {
+        "default": {
+          "aliases": []
+        }
+      }
+    }
+  },
+  "networks": {},
+  "volumes": {},
+  "app-info": {
+    "name": "garbo286_4965",
+    "description": ""
+  }
+}
