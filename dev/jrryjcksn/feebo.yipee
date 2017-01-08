@@ -1,9 +1,0 @@
-{
-  "services": {},
-  "networks": {},
-  "volumes": {},
-  "app-info": {
-    "name": "feebo",
-    "description": ""
-  }
-}
